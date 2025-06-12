@@ -1,14 +1,9 @@
 {
   "name": "motivation-backend",
+  "type": "module",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "main": "api/generate.js",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "node-fetch": "^3.3.2"
   }
